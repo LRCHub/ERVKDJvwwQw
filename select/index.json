@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "強風",
+  "base_artist": "山田",
+  "createdAt": "2025-12-01T15:50:35.852674Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "強風波浪注意報発令",
+      "artist": "小川 範子",
+      "has_synced": false,
+      "path": "select/pl_01_強風波浪注意報発令_小川_範子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "強風オールバック",
+      "artist": "小川 範子",
+      "has_synced": false,
+      "path": "select/pl_02_強風オールバック_小川_範子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "強風オールバック",
+      "artist": "小川 範子",
+      "has_synced": false,
+      "path": "select/pl_03_強風オールバック_小川_範子.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "強風オールバック",
+      "artist": "小川 範子",
+      "has_synced": false,
+      "path": "select/pl_04_強風オールバック_小川_範子.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "強風オールバック",
+      "artist": "小川 範子",
+      "has_synced": false,
+      "path": "select/pl_05_強風オールバック_小川_範子.txt"
+    }
+  ]
+}
